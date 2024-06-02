@@ -10,19 +10,19 @@ Set in a distant future where humanity has taken refuge on a vast spacecraft aft
 Gemeni offers an exhilarating blend of platform gameplay, puzzle-solving, and intense combat sequences. Players must navigate through challenging environments filled with obstacles, traps, and hostile robots controlled by the ever-watchful Gemini. Utilize Adam's agility and wits to overcome these challenges, collect essential resources, and piece together powerful weapons to fend off the relentless robotic adversaries.
 
 ## Key features:
-Engaging platforming gameplay with precise jumping and movement mechanics
-Puzzle-solving elements that test your logic and problem-solving skills
-Combat system allowing you to strategically fight against or convert hostile robots
-Beautifully crafted sci-fi environments 
-Immersive storyline with multiple endings based on your choices
-Captivating audio and visual effects that enhance the gameplay experience
+- Engaging platforming gameplay with precise jumping and movement mechanics
+ Puzzle-solving elements that test your logic and problem-solving skills
+- Combat system allowing you to strategically fight against or convert hostile robots
+- Beautifully crafted sci-fi environments 
+- Immersive storyline with multiple endings based on your choices
+- Captivating audio and visual effects that enhance the gameplay experience
 
 ## Installation
 To install and run Gemeni on your computer, follow these steps:
 
-Download the latest version of the game from the releases page.
-Extract the downloaded archive to a desired location on your computer.
-Run the executable file (Gemeni.exe) to launch the game.
+- Download the latest version of the game from the releases page.
+- Extract the downloaded archive to a desired location on your computer.
+- Run the executable file (Gemeni.exe) to launch the game.
 
 ## Controls
 
