@@ -1,8 +1,6 @@
 # Gemini
 ![Cover](Cover.jpeg)
-<!-- YouTube -->
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=VIDEO_ID](https://youtu.be/WM5S0oIpPlQ?si=e8RPuDrHG1rcfaTd)" target="_blank">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WM5S0oIpPlQ?si=e8RPuDrHG1rcfaTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Gemeni is a captivating science fiction platformer game developed using Unity. In this thrilling adventure, you take on the role of Adam, a courageous scientist determined to unravel the mysteries of the AI-controlled spaceship Genesis and find a way back to the long-forgotten planet Earth.
 
